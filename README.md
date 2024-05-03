@@ -17,4 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshravyashetty&show_icons=true&locale=en" alt="kshravyashetty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshravyashetty&" alt="kshravyashetty" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
